@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D8A7D90A-AD0C-4F7F-B063-7ED53FD7A375}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Infrastructure.CommandProcessor</RootNamespace>
+    <AssemblyName>Infrastructure.CommandProcessor</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper">
+      <HintPath>..\Libraries\AutoMapper\AutoMapper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MessageMapper.cs" />
+    <Compile Include="MessageProcessorFactory.cs" />
+    <Compile Include="CommandFactory.cs" />
+    <Compile Include="CommandProcessorUnitOfWorkProxy.cs" />
+    <Compile Include="CommandMessageHandlerProxy.cs" />
+    <Compile Include="ConventionMessageConfiguration.cs" />
+    <Compile Include="RulesEngineConfiguration.cs" />
+    <Compile Include="MessageConfiguration\UpdateTeamEmployeeConfiguration.cs" />
+    <Compile Include="RulesEngine.cs" />
+    <Compile Include="ValidationRules\UserGroupKeyMustBeUnique.cs" />
+    <Compile Include="SuccessResult.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CommandProcessor\CommandProcessor\CommandProcessor.csproj">
+      <Project>{37A1D1C4-5C10-4DC8-9972-DEBBBD80BB7C}</Project>
+      <Name>CommandProcessor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{8A352CDF-780E-4BA8-939D-088EA47E9DE1}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UserInterface\UserInterface.csproj">
+      <Project>{2F250EB2-A8F9-4E03-AE7D-EA9BBB30BD13}</Project>
+      <Name>UserInterface</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

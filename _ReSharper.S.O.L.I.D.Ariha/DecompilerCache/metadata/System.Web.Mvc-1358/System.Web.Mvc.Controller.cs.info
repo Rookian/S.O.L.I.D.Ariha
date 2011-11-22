@@ -1,0 +1,25 @@
+R# version: 5.0.1616.5
+assembly System.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files\Microsoft ASP.NET\ASP.NET MVC 2\Assemblies\System.Web.Mvc.dll mtime 1/29/2010 9:13:44 AM
+referenced assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll mtime 6/10/2009 9:23:06 PM
+referenced assembly System.Web.Abstractions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Web.Abstractions.dll mtime 6/10/2009 9:14:43 PM
+referenced assembly System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Web.dll mtime 6/10/2009 9:23:19 PM
+referenced assembly System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.ComponentModel.DataAnnotations.dll mtime 6/10/2009 9:14:41 PM
+referenced assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll mtime 6/10/2009 9:23:18 PM
+referenced assembly System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll mtime 6/10/2009 9:14:41 PM
+referenced assembly System.Web.Routing, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Web.Routing.dll mtime 6/10/2009 9:14:45 PM
+referenced assembly System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll mtime 6/10/2009 9:23:20 PM
+referenced assembly System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Web.Extensions.dll mtime 6/10/2009 9:14:45 PM
+referenced assembly System.Data.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Data.Linq.dll mtime 6/10/2009 9:14:42 PM
+referenced assembly System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Data.Entity.dll mtime 6/10/2009 9:14:41 PM

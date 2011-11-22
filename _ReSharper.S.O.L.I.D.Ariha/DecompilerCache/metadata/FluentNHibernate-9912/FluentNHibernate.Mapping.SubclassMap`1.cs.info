@@ -1,0 +1,20 @@
+R# version: 5.0.1565.10
+assembly FluentNHibernate, Version=1.0.0.595, Culture=neutral, PublicKeyToken=8aa435e3cb308880
+  file C:\Nhibernate\FluentNhibernate\FluentNHibernate.dll mtime 11/4/2009 2:22:36 PM
+referenced assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll mtime 9/4/2009 6:58:30 AM
+referenced assembly NHibernate, Version=2.1.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+  file C:\Nhibernate\FluentNhibernate\NHibernate.dll mtime 11/4/2009 2:22:36 PM
+referenced assembly System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file c:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll mtime 7/29/2008 10:40:48 PM
+referenced assembly System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll mtime 3/29/2009 7:42:22 PM
+referenced assembly System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Configuration.dll mtime 3/29/2009 7:42:18 PM
+referenced assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll mtime 3/29/2009 7:42:20 PM
+referenced assembly System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll mtime 3/29/2009 7:42:18 PM
+referenced assembly Iesi.Collections, Version=1.0.1.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+  file C:\Nhibernate\Required_Bins\Iesi.Collections.dll mtime 7/19/2009 7:58:26 AM
+  file C:\Nhibernate\FluentNhibernate\Iesi.Collections.dll mtime 11/4/2009 2:22:36 PM

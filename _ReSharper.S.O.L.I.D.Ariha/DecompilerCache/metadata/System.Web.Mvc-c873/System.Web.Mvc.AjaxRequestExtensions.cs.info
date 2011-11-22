@@ -1,0 +1,26 @@
+R# version: 5.1.1747.3
+assembly System.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET MVC 2\Assemblies\System.Web.Mvc.dll mtime 17.02.2010 06:24:14
+  file C:\Windows\assembly\GAC_MSIL\System.Web.Mvc\2.0.0.0__31bf3856ad364e35\System.Web.Mvc.dll mtime 11.08.2010 15:13:18
+referenced assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll mtime 20.05.2010 22:49:17
+referenced assembly System.Web.Abstractions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.Abstractions.dll mtime 18.03.2010 17:31:26
+referenced assembly System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.dll mtime 18.03.2010 17:31:26
+referenced assembly System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.ComponentModel.DataAnnotations.dll mtime 18.03.2010 17:31:26
+referenced assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll mtime 18.03.2010 17:31:26
+referenced assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll mtime 18.03.2010 17:31:26
+referenced assembly System.Web.Routing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.Routing.dll mtime 18.03.2010 17:31:26
+referenced assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll mtime 18.03.2010 17:31:26
+referenced assembly System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.Extensions.dll mtime 18.03.2010 17:31:26
+referenced assembly System.Data.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Data.Linq.dll mtime 18.03.2010 11:16:28
+referenced assembly System.Data.Entity, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Data.Entity.dll mtime 10.06.2009 21:14:41

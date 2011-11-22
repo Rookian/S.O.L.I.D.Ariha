@@ -1,0 +1,269 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\log4net.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.pdb
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.pdb
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.Linq.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.pdb
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.pdb
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.pdb
+U:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.dll
+U:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.pdb
+U:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.dll
+U:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.dll
+U:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.Linq.dll
+U:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.pdb
+U:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.pdb
+U:\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\ResolveAssemblyReference.cache
+U:\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.dll
+U:\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.pdb
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.pdb
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.Linq.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.pdb
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.pdb
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.pdb
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.Linq.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.pdb
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.pdb
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.pdb
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.Linq.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\log4net.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.pdb
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.pdb
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\ResolveAssemblyReference.cache
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.pdb
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.pdb
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.Nhibernate.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.Linq.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\System.Data.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\System.Data.SQLite.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Antlr3.Runtime.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.pdb
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.Nhibernate.pdb
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.xml
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.xml
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.pdb
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.xml
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.xml
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.xml
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.xml
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.xml
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\ResolveAssemblyReference.cache
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.pdb
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\ResolveAssemblyReference.cache
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.pdb
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.pdb
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.Nhibernate.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.Linq.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\System.Data.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\System.Data.SQLite.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Antlr3.Runtime.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.pdb
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.Nhibernate.pdb
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.xml
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.xml
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.pdb
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.xml
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.xml
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.xml
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.xml
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.xml
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Remotion.Data.Linq.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.pdb
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.pdb
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.pdb
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Remotion.Data.Linq.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.pdb
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.pdb
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.pdb
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.pdb
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.Nhibernate.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.Linq.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\System.Data.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.Nhibernate.pdb
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.xml
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.pdb
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.xml
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.pdb
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.pdb
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.xml
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.pdb
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.pdb
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.pdb
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.Nhibernate.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.Linq.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\System.Data.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\System.Data.SQLite.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Antlr3.Runtime.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Remotion.Data.Linq.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.pdb
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.Nhibernate.pdb
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.xml
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.xml
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.pdb
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.xml
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.pdb
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.xml
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.pdb
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.xml
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.pdb
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.xml
+H:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.xml
+H:\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\ResolveAssemblyReference.cache
+H:\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.dll
+H:\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.pdb
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\IntegrationTest.pdb
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.Nhibernate.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.Linq.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\System.Data.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\System.Data.SQLite.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Antlr3.Runtime.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Remotion.Data.Linq.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Core.pdb
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Infrastructure.Nhibernate.pdb
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.Core.xml
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Castle.DynamicProxy2.xml
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.pdb
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\FluentNHibernate.xml
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.pdb
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\Iesi.Collections.xml
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.pdb
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.xml
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.pdb
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\NHibernate.ByteCode.Castle.xml
+G:\S.O.L.I.D.Ariha\IntegrationTest\bin\Debug\nunit.framework.xml
+G:\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\ResolveAssemblyReference.cache
+G:\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.dll
+G:\S.O.L.I.D.Ariha\IntegrationTest\obj\Debug\IntegrationTest.pdb

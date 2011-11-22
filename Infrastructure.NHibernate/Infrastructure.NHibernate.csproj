@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C1A68277-2202-4C2F-BA5A-BB95025F6BD7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Infrastructure.NHibernate</RootNamespace>
+    <AssemblyName>Infrastructure.Nhibernate</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FluentNHibernate, Version=1.0.0.595, Culture=neutral, PublicKeyToken=8aa435e3cb308880, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Libraries\Nhibernate\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\Libraries\Nhibernate\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=2.1.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Libraries\Nhibernate\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.ByteCode.Castle">
+      <HintPath>..\Libraries\Nhibernate\NHibernate.ByteCode.Castle.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.Linq, Version=1.0.0.4000, Culture=neutral, PublicKeyToken=444cf6a87fdab271, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Libraries\Nhibernate\NHibernate.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="QueryOverExtensions.cs" />
+    <Compile Include="InstanceScoper\HttpContextInstanceScoper.cs" />
+    <Compile Include="InstanceScoper\HybridInstanceScoper.cs" />
+    <Compile Include="InstanceScoper\IInstanceScoper.cs" />
+    <Compile Include="InstanceScoper\InstanceScoperBase.cs" />
+    <Compile Include="InstanceScoper\SingletonInstanceScoper.cs" />
+    <Compile Include="InstanceScoper\ThreadStaticInstanceScoper.cs" />
+    <Compile Include="Mapping\ConsumerProtection\ArticleMap.cs" />
+    <Compile Include="Mapping\ConsumerProtection\GoodsGroupMap.cs" />
+    <Compile Include="Mapping\ConsumerProtection\SalesmanArticleMap.cs" />
+    <Compile Include="Mapping\ConsumerProtection\SalesmanMap.cs" />
+    <Compile Include="Mapping\TeamEmployeeMap.cs" />
+    <Compile Include="Repositories\ConsumerProtection\ArticleRepository.cs" />
+    <Compile Include="Repositories\ConsumerProtection\GoodsGroupRepository.cs" />
+    <Compile Include="Repositories\ConsumerProtection\SalesmanArticleRepository.cs" />
+    <Compile Include="Repositories\ConsumerProtection\SalesmanRepository.cs" />
+    <Compile Include="Repositories\TeamEmployeeRepository.cs" />
+    <Compile Include="Repositories\TeamRepository.cs" />
+    <Compile Include="SessionFactory\ConfigurationFactory.cs" />
+    <Compile Include="Session\ISessionBuilder.cs" />
+    <Compile Include="SessionFactory\ISessionFactoryBuilder.cs" />
+    <Compile Include="Mapping\BookMap.cs" />
+    <Compile Include="Mapping\EmployeeMap.cs" />
+    <Compile Include="Mapping\LoanedItemMap.cs" />
+    <Compile Include="Mapping\MagazineMap.cs" />
+    <Compile Include="Mapping\TeamMap.cs" />
+    <Compile Include="Repositories\EmployeeRepository.cs" />
+    <Compile Include="Repositories\LoanedItemRepository.cs" />
+    <Compile Include="Repositories\Repository.cs" />
+    <Compile Include="Session\SessionBuilder.cs" />
+    <Compile Include="SessionFactory\SessionFactoryBuilder.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnitOfWork\UnitOfWork.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{8A352CDF-780E-4BA8-939D-088EA47E9DE1}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy $(ProjectDir)$(OutDir)*.* $(SolutionDir)UserInterface\bin /e /i /y /r /h
+xcopy $(ProjectDir)$(OutDir)*.* $(SolutionDir)SchemaCreator\bin /e /i /y /r /h</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

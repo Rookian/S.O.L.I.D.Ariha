@@ -1,0 +1,12 @@
+R# version: 5.0.1616.5
+assembly AutoMapper, Version=1.0.0.155, Culture=neutral, PublicKeyToken=be96cd2c38ef1005
+  file C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\Libraries\AutoMapper\AutoMapper.dll mtime 2/23/2010 12:48:04 PM
+  file C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\UserInterface\Bin\AutoMapper.dll mtime 2/23/2010 12:48:04 PM
+referenced assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll mtime 6/10/2009 9:23:06 PM
+referenced assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll mtime 6/10/2009 9:23:18 PM
+referenced assembly System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll mtime 6/10/2009 9:14:41 PM
+referenced assembly System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll mtime 6/10/2009 9:23:17 PM

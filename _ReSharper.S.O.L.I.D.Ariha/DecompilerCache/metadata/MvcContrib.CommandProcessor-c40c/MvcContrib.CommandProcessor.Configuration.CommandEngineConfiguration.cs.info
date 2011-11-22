@@ -1,0 +1,13 @@
+R# version: 5.1.1753.4
+assembly MvcContrib.CommandProcessor, Version=2.0.96.0, Culture=neutral
+  file C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Libraries\MVCContrib\MvcContrib.CommandProcessor.dll mtime 9/25/2010 1:09:10 PM
+  file C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\UserInterface\Bin\MvcContrib.CommandProcessor.dll mtime 9/25/2010 1:09:10 PM
+referenced assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll mtime 5/20/2010 10:49:17 PM
+referenced assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll mtime 3/18/2010 5:31:26 PM
+referenced assembly Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  file C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Libraries\Microsoft.Practices.ServiceLocation\Microsoft.Practices.ServiceLocation.dll mtime 6/18/2010 9:26:26 AM
+  file C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\UserInterface\Bin\Microsoft.Practices.ServiceLocation.dll mtime 6/18/2010 9:26:26 AM
+referenced assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll mtime 3/18/2010 5:31:26 PM

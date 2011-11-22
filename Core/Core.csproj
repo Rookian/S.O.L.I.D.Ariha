@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8A352CDF-780E-4BA8-939D-088EA47E9DE1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Core</RootNamespace>
+    <AssemblyName>Core</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\Libraries\Nhibernate\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\EnumerableExtensions.cs" />
+    <Compile Include="Common\ObjectExtensions.cs" />
+    <Compile Include="Common\Paging\Interfaces\IPagedList.cs" />
+    <Compile Include="Common\Paging\PagedList.cs" />
+    <Compile Include="Common\Paging\PagerInfo.cs" />
+    <Compile Include="Common\Paging\PagerViewModel.cs" />
+    <Compile Include="Domain\Bases\Enumerations\DiscriminatorValue.cs" />
+    <Compile Include="Domain\Bases\Repositories\IEmployeeRepository.cs" />
+    <Compile Include="Domain\Bases\Repositories\ITeamEmployeeRepository.cs" />
+    <Compile Include="Domain\Bases\Repositories\ITeamRepository.cs" />
+    <Compile Include="Domain\Model\TeamEmployee.cs" />
+    <Compile Include="Factories\AbstractFactoryBase.cs" />
+    <Compile Include="Interfaces\IMappingService.cs" />
+    <Compile Include="Interfaces\IUnitOfWork.cs" />
+    <Compile Include="Domain\Bases\Repositories\ConsumerProtection\IArticleRepository.cs" />
+    <Compile Include="Domain\Bases\Repositories\ConsumerProtection\ISalesmanArticleRepository.cs" />
+    <Compile Include="Domain\Bases\Repositories\ConsumerProtection\ISalesmanRepository.cs" />
+    <Compile Include="Domain\Bases\Repositories\ILoanedItemRepository.cs" />
+    <Compile Include="Domain\Bases\Repositories\ConsumerProtection\IGoodsGroupRepository.cs" />
+    <Compile Include="Domain\Model\DomainModelHelper.cs" />
+    <Compile Include="Domain\Model\ConsumerProtection\Article.cs" />
+    <Compile Include="Domain\Model\Book.cs" />
+    <Compile Include="Domain\Model\ConsumerProtection\SalesmanArticleGroupedByMonthAndDescription.cs" />
+    <Compile Include="Domain\Model\Employee.cs" />
+    <Compile Include="Domain\Bases\Entity.cs" />
+    <Compile Include="Domain\Bases\IEntity.cs" />
+    <Compile Include="Domain\Model\ConsumerProtection\GoodsGroup.cs" />
+    <Compile Include="Domain\Model\LoanedItem.cs" />
+    <Compile Include="Domain\Model\Magazine.cs" />
+    <Compile Include="Domain\Model\Publisher.cs" />
+    <Compile Include="Domain\Model\Release.cs" />
+    <Compile Include="Domain\Model\ConsumerProtection\Salesman.cs" />
+    <Compile Include="Domain\Model\ConsumerProtection\SalesmanArticle.cs" />
+    <Compile Include="Domain\Model\Team.cs" />
+    <Compile Include="Domain\Bases\Repositories\IRepository.cs" />
+    <Compile Include="Factories\UnitOfWorkFactory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Common\Reflector.cs" />
+    <Compile Include="Services\BusinessRules\CommandHandler\DeleteTeamEmployeeCommandHandler.cs" />
+    <Compile Include="Services\BusinessRules\CommandHandler\UpdateTeamEmployeeCommandHandler.cs" />
+    <Compile Include="Services\BusinessRules\CommandMessages\DeleteTeamEmployeeCommandMessage.cs" />
+    <Compile Include="Services\BusinessRules\CommandMessages\UpdateTeamEmployeeCommandMessage.cs" />
+    <Compile Include="Services\BusinessRules\ICommandHandler.cs" />
+    <Compile Include="Services\IRulesEngine.cs" />
+    <Compile Include="Services\ErrorMessage.cs" />
+    <Compile Include="Services\ICanSucceed.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Domain\Model\ConsumerProtection\DomainModel.cd" />
+    <None Include="Domain\Model\DomainModel.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

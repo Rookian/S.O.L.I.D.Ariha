@@ -1,0 +1,23 @@
+R# version: 5.1.1745.1
+assembly FluentNHibernate, Version=1.0.0.595, Culture=neutral, PublicKeyToken=8aa435e3cb308880
+  file H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Libraries\FluentNHibernate.dll mtime 04.11.2009 13:22:36
+  file H:\Nhibernate\FluentNhibernate\FluentNHibernate.dll mtime 04.11.2009 13:22:36
+  file H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\UserInterface\Bin\FluentNHibernate.dll mtime 04.11.2009 13:22:36
+referenced assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll mtime 20.05.2010 22:49:17
+referenced assembly NHibernate, Version=2.1.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+  file H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Libraries\NHibernate.dll mtime 04.11.2009 13:22:36
+  file H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\UserInterface\Bin\NHibernate.dll mtime 04.11.2009 13:22:36
+referenced assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll mtime 18.03.2010 17:31:26
+referenced assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll mtime 18.03.2010 17:31:26
+referenced assembly System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Configuration.dll mtime 18.03.2010 17:31:26
+referenced assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll mtime 18.03.2010 17:31:26
+referenced assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll mtime 18.03.2010 17:31:26
+referenced assembly Iesi.Collections, Version=1.0.1.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+  file H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Libraries\Iesi.Collections.dll mtime 19.07.2009 06:58:26
+  file H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\UserInterface\Bin\Iesi.Collections.dll mtime 19.07.2009 06:58:26

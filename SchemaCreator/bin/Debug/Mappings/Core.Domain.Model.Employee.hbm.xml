@@ -1,0 +1,32 @@
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" default-access="property" auto-import="true" default-cascade="none" default-lazy="true">
+  <class xmlns="urn:nhibernate-mapping-2.2" mutable="true" name="Core.Domain.Model.Employee, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" table="tblEmployee">
+    <id name="Id" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="EmployeeId" />
+      <generator class="identity" />
+    </id>
+    <property name="EMail" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="EMail" />
+    </property>
+    <property name="LastName" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="LastName" />
+    </property>
+    <property name="FirstName" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="FirstName" />
+    </property>
+    <property name="Infos" type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Infos" not-null="true" />
+    </property>
+    <property name="Count" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="Count" />
+    </property>
+    <property name="IsCool" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <column name="IsCool" not-null="true" />
+    </property>
+    <bag access="field.camelcase-underscore" cascade="save-update" name="loanedItems" mutable="true">
+      <key>
+        <column name="EmployeeId" />
+      </key>
+      <one-to-many class="Core.Domain.Model.LoanedItem, Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+    </bag>
+  </class>
+</hibernate-mapping>

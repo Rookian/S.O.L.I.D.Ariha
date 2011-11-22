@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dictionary>
+  <item>
+    <key>
+      <string>ShowXmlDoc</string>
+    </key>
+    <value>
+      <string>True</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>PostReformat</string>
+    </key>
+    <value>
+      <string>True</string>
+    </value>
+  </item>
+</dictionary>

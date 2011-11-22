@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Core.Domain.Model.Team">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Model\Team.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Domain.Model.Book">
+    <Position X="9.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Model\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Domain.Model.Employee">
+    <Position X="5.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgAAAAAAAAAQAAAAAACACAAAAAIAAAAAAAAAAg=</HashCode>
+      <FileName>Domain\Model\Employee.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_loanedItems" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Core.Domain.Bases.Entity">
+    <Position X="5.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAgAAAAAQAAAIAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Bases\Entity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Core.Domain.Model.LoanedItem">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAICACAAAQAAAAAIAAAAAAAABAABAA=</HashCode>
+      <FileName>Domain\Model\LoanedItem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="LoanedBy" />
+      <Property Name="Release" />
+      <Property Name="Publisher" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Core.Domain.Model.Magazine">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Model\Magazine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Domain.Model.Publisher">
+    <Position X="11.5" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAIAAAAAIAAAAAAAIAAAAA=</HashCode>
+      <FileName>Domain\Model\Publisher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Domain.Model.Release">
+    <Position X="11.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Model\Release.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Domain.Model.TeamEmployee">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Model\TeamEmployee.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Employee" />
+      <Property Name="Team" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="Core.Domain.Bases.IEntity">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Bases\IEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

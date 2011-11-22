@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MvcContrib.CommandProcessor.Configuration.ValidationDefinition&lt;TMessage, TCommand&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAECAAABAAAAACAAAlAAAAEAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Configuration\ValidationDefinition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MvcContrib.CommandProcessor.Configuration.ExpressionExtension" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Configuration\ValidationDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcContrib.CommandProcessor.Configuration.CommandConfigurationExpression&lt;TMessage, TCommand&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAACAAAAACgAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Configuration\CommandConfigurationExpression.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MvcContrib.CommandProcessor.Configuration.CommandDefinition" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAADAAQAAAAAAAAAAAAAAAAABAAADQgAABAA=</HashCode>
+      <FileName>Configuration\CommandDefinition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MvcContrib.CommandProcessor.Configuration.CommandEngineConfiguration" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAQAAAAABAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\CommandEngineConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MvcContrib.CommandProcessor.Configuration.MessageDefinition&lt;TMessage&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAQAABAAgAAACAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\MessageDefinition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MvcContrib.CommandProcessor.Commands.Command&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\Command.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MvcContrib.CommandProcessor.Commands.CommandInvoker" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Commands\CommandInvoker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MvcContrib.CommandProcessor.Commands.CommandFactory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Commands\CommandProcessorFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="MvcContrib.CommandProcessor.Configuration.IRuleExpression&lt;TMessage, TCommandMessage&gt;" Collapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\IRuleExpression.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MvcContrib.CommandProcessor.Configuration.ICommandConfigurationExpression&lt;TMessage, TCommandMessage&gt;" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAACAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\IRuleExpression.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MvcContrib.CommandProcessor.Configuration.ITargetTypeExpression&lt;TMessage, TCommandMessage&gt;" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\IRuleExpression.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MvcContrib.CommandProcessor.Configuration.ITypedTargetExpression&lt;TMessage, TCommandMessage, TTarget&gt;" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\IRuleExpression.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MvcContrib.CommandProcessor.Configuration.ITargetExpression&lt;TCommandMessage, TMessage&gt;" Collapsed="true">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\IRuleExpression.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MvcContrib.CommandProcessor.Configuration.IResultExpression&lt;TMessage&gt;" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\IRuleExpression.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MvcContrib.CommandProcessor.Configuration.IRuleOptionsExpression&lt;TCommandMessage&gt;" Collapsed="true">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\IRuleExpression.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MvcContrib.CommandProcessor.Configuration.IMessageConfiguration" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Configuration\MessageDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MvcContrib.CommandProcessor.Configuration.IConditionExpression&lt;TMessage&gt;" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\MessageDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MvcContrib.CommandProcessor.Commands.ICommandMessageHandler" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\Command.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MvcContrib.CommandProcessor.Commands.ICommandMessageHandler&lt;TCommand, TResult&gt;" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\Command.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MvcContrib.CommandProcessor.Commands.ICommandInvoker" Collapsed="true">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\CommandInvoker.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MvcContrib.CommandProcessor.Commands.ICommandFactory" Collapsed="true">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Commands\CommandProcessorFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

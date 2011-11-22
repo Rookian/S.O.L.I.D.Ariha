@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Core.Domain.Model.ConsumerProtection.Article">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <AssociationLine Name="GoodsGroup" Type="Core.Domain.Model.ConsumerProtection.GoodsGroup">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.141" Y="1.206" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Model\ConsumerProtection\Article.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GoodsGroup" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Core.Domain.Model.ConsumerProtection.SalesmanArticle">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAABCAEAAAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>Domain\Model\ConsumerProtection\SalesmanArticle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Salesman" />
+      <Property Name="Article" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Core.Domain.Model.ConsumerProtection.GoodsGroup">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Model\ConsumerProtection\GoodsGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Domain.Model.ConsumerProtection.Salesman">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Domain\Model\ConsumerProtection\Salesman.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Domain.Bases.Entity">
+    <Position X="5.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAgAAAAAQAAAIAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Bases\Entity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

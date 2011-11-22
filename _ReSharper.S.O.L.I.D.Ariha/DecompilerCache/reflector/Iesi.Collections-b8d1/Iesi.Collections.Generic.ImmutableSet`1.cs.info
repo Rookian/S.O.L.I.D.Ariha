@@ -1,0 +1,8 @@
+R# version: 5.0.1616.5
+assembly Iesi.Collections, Version=1.0.1.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4
+  file C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\Libraries\Iesi.Collections.dll mtime 7/19/2009 7:58:26 AM
+  file C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\UserInterface\Bin\Iesi.Collections.dll mtime 7/19/2009 7:58:26 AM
+referenced assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll mtime 6/10/2009 9:23:06 PM
+referenced assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  file C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll mtime 6/10/2009 9:23:18 PM

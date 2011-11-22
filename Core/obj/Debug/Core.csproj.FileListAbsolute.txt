@@ -1,0 +1,76 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\Core\bin\Debug\Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\Core\bin\Debug\Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\Core\obj\Debug\Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\S.O.L.I.D.Ariha\Core\obj\Debug\Core.pdb
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\Core\bin\Debug\Core.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\Core\bin\Debug\Core.pdb
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\Core\obj\Debug\Core.dll
+C:\Users\Alexander.Tank\Desktop\S.O.L.I.D.Ariha\Core\obj\Debug\Core.pdb
+U:\S.O.L.I.D.Ariha\Core\bin\Debug\Core.dll
+U:\S.O.L.I.D.Ariha\Core\bin\Debug\Core.pdb
+U:\S.O.L.I.D.Ariha\Core\obj\Debug\ResolveAssemblyReference.cache
+U:\S.O.L.I.D.Ariha\Core\obj\Debug\Core.dll
+U:\S.O.L.I.D.Ariha\Core\obj\Debug\Core.pdb
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\Core.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\Core.pdb
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\Core\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\Core\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\Core\obj\Debug\Core.dll
+C:\Users\Administrator\Desktop\S.O.L.I.D.Ariha\Core\obj\Debug\Core.pdb
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Core.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Core.pdb
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\ResolveAssemblyReference.cache
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\Core.dll
+E:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\Core.pdb
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Core.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Core.pdb
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.xml
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\ResolveAssemblyReference.cache
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\Core.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\Core.pdb
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\ResolveAssemblyReference.cache
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\Core.pdb
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Core.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Core.pdb
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.dll
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.xml
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\Core.dll
+H:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.pdb
+G:\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.pdb
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Core.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Core.pdb
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.pdb
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\Core.dll
+C:\Users\Administrator\Desktop\bck\S.O.L.I.D.Ariha\S.O.L.I.D.Ariha\Core\obj\Debug\Core.pdb
+H:\S.O.L.I.D.Ariha\Core\bin\Debug\Core.dll
+H:\S.O.L.I.D.Ariha\Core\bin\Debug\Core.pdb
+H:\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.dll
+H:\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.pdb
+H:\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.xml
+H:\S.O.L.I.D.Ariha\Core\obj\Debug\ResolveAssemblyReference.cache
+H:\S.O.L.I.D.Ariha\Core\obj\Debug\Core.dll
+H:\S.O.L.I.D.Ariha\Core\obj\Debug\Core.pdb
+G:\S.O.L.I.D.Ariha\Core\bin\Debug\Core.dll
+G:\S.O.L.I.D.Ariha\Core\bin\Debug\Core.pdb
+G:\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.dll
+G:\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.pdb
+G:\S.O.L.I.D.Ariha\Core\bin\Debug\Iesi.Collections.xml
+G:\S.O.L.I.D.Ariha\Core\obj\Debug\ResolveAssemblyReference.cache
+G:\S.O.L.I.D.Ariha\Core\obj\Debug\Core.dll
+G:\S.O.L.I.D.Ariha\Core\obj\Debug\Core.pdb

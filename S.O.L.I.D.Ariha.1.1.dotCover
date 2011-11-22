@@ -1,0 +1,11 @@
+<Configuration>
+  <CoverageFilters>
+    <IncludeFilters>
+      <Filter ModuleMask="*" ClassMask="*" FunctionMask="*" />
+    </IncludeFilters>
+    <ExcludeFilters />
+  </CoverageFilters>
+  <SnapshotDialog>
+    <InitialDirectory>G:\S.O.L.I.D.Ariha</InitialDirectory>
+  </SnapshotDialog>
+</Configuration>

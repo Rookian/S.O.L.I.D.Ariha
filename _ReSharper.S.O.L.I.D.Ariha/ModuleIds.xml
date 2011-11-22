@@ -1,0 +1,13 @@
+<Modules>
+  <Module PersistentId="C1A68277-2202-4C2F-BA5A-BB95025F6BD7" ModuleId="Infrastructure" />
+  <Module PersistentId="8A352CDF-780E-4BA8-939D-088EA47E9DE1" ModuleId="Core" />
+  <Module PersistentId="0384B49D-5A23-43D2-89F3-26867B2D59E4" ModuleId="SchemaCreator" />
+  <Module PersistentId="4F887444-16C2-4E33-92A0-1942D602DFA9" ModuleId="IntegrationTest" />
+  <Module PersistentId="B4DF15CB-9A57-4A91-939E-E3F88416AD54" ModuleId="FluentNHibernate" />
+  <Module PersistentId="2F250EB2-A8F9-4E03-AE7D-EA9BBB30BD13" ModuleId="UserInterface_1" />
+  <Module PersistentId="6B7B5FAF-5256-4435-A886-EF6A942E0802" ModuleId="DependencyResolution" />
+  <Module PersistentId="EB572A45-CC26-4F08-9169-55BBBC5540DB" ModuleId="Infrastructure.Automapper" />
+  <Module PersistentId="D8A7D90A-AD0C-4F7F-B063-7ED53FD7A375" ModuleId="Infrastructure.CommandProcessor" />
+  <Module PersistentId="37A1D1C4-5C10-4DC8-9972-DEBBBD80BB7C" ModuleId="CommandProcessor" />
+  <Module PersistentId="AutoMapper, Version=1.1.0.188, Culture=neutral, PublicKeyToken=be96cd2c38ef1005" ModuleId="AutoMapper" />
+</Modules>
